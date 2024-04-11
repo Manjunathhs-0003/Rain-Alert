@@ -1,0 +1,23 @@
+Documentation: Obtaining API Keys for OpenWeather and Twilio
+
+This documentation outlines the steps to obtain API keys for the OpenWeather and Twilio services.
+
+------OpenWeather API Key------
+
+1. Visit OpenWeather website.
+2. Sign up for an account.
+3. Once signed up, log in to your account.
+4. Navigate to the "API Keys" section on the website.
+5. Here, you will find your unique API key. For example: b6907d289e10d714a6e88b30761fae22
+
+------Twilio API Key------
+
+1. Head to the Twilio sign-up page.
+2. Create an account by filling in the required details.
+3. Verify your account by confirming your email address and phone number.
+4. After verification, you'll be redirected to the Twilio project dashboard.
+5. In the dashboard, locate the option to "Get a Trial Number".
+6. Twilio will generate an automatic phone number for you. Choose this number. For example: +15017122661
+7. In the dashboard, you will also find your "Account SID" and "Auth Token", which serve as your API credentials. For example:
+   Account SID: ACXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+   Auth Token: your_auth_token
